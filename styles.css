@@ -30,7 +30,10 @@ body {
     background-position: 0% 50%;
   }
 }
-
+#buttonstick{
+  position: absolute;
+  position: sticky;
+}
 /* Add a black background color to the top navigation */
 .topnav {
   height: 130px;
@@ -48,10 +51,6 @@ body {
   padding-bottom: 5px;
   text-decoration: none;
   font-size: 17px;
-}
-#buttonstick{
-  position: absolute;
-  position: sticky;
 }
 
 /* Change the color of links on hover */
