@@ -49,7 +49,7 @@ body {
   text-decoration: none;
   font-size: 17px;
 }
-.buttonstick{
+#buttonstick{
   position: absolute;
   position: sticky;
 }
